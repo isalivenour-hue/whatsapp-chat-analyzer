@@ -21,7 +21,7 @@ ANDROID_24H = """\
 still thinking about that last goal
 14/11/2026, 21:03 - Sara: <Media omitted>
 14/11/2026, 21:04 - Sara: This message was deleted
-14/11/2026, 21:05 - Alex: check this https://github.com/isalivenour-hue cool site
+14/11/2026, 21:05 - Alex: check this https://github.com/noah-hayes-dev cool site
 15/11/2026, 08:00 - Sara: hello hello hello test test
 """
 
